@@ -1,5 +1,5 @@
 function toon {
-  echo -n ""
+  echo -n ""%B%F{0}%b%f"
 }
 
 autoload -Uz vcs_info
